@@ -4276,3 +4276,60 @@ SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@26e43ba
 2024.07.01 14:33:50 INFO  Connected to Build server: scala-cli v1.2.1
 2024.07.01 14:33:50 INFO  time: Imported build in 0.46s
 2024.07.01 14:33:59 INFO  time: indexed workspace in 8.48s
+2024.07.01 14:35:03 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.07.01 14:35:09 INFO  time: compiled SCS2204_f4dd477a3a in 5.46s
+2024.07.01 14:35:09 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.07.01 14:35:11 INFO  time: compiled SCS2204_f4dd477a3a in 1.19s
+2024.07.01 14:35:12 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.07.01 14:35:14 INFO  time: compiled SCS2204_f4dd477a3a in 2.63s
+2024.07.01 14:35:14 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.07.01 14:35:17 INFO  time: compiled SCS2204_f4dd477a3a in 1.74s
+2024.07.01 14:35:17 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.07.01 14:35:19 INFO  time: compiled SCS2204_f4dd477a3a in 1.84s
+2024.07.01 14:35:44 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.07.01 14:35:44 INFO  time: compiled SCS2204_f4dd477a3a in 0.24s
+2024.07.01 14:35:48 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+Jul 01, 2024 2:35:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 142
+2024.07.01 14:35:48 INFO  time: compiled SCS2204_f4dd477a3a in 0.81s
+2024.07.01 14:35:51 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.07.01 14:35:53 INFO  time: compiled SCS2204_f4dd477a3a in 2.17s
+2024.07.01 14:36:07 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_03\C3.scala
+2024.07.01 14:36:07 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.07.01 14:36:08 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_03\C3.scala
+2024.07.01 14:36:09 INFO  time: compiled SCS2204_f4dd477a3a in 1.97s
+2024.07.01 14:36:10 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.07.01 14:36:12 INFO  time: compiled SCS2204_f4dd477a3a in 1.36s
+2024.07.01 14:36:19 ERROR Failed to tokenize input for semantic tokens for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_03\C3.scala
+scala.meta.tokenizers.TokenizeException: <input>:13: error: unclosed string interpolation
+        print(s"Average of $num1 and $num2 = $");
+                                          ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:239)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1623)
+
+2024.07.01 14:36:21 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.07.01 14:36:21 INFO  time: compiled SCS2204_f4dd477a3a in 0.68s
+Jul 01, 2024 2:36:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
