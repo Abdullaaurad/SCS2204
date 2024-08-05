@@ -67,6 +67,7 @@ object Z1{
 
     
     def main(args: Array[String]): Unit= {
+        /*
         println("Product Names in Inventory 1")
         RetrieveName(Inventory_1)
         println(s"\nTotal Value in Inventory 1 = ${TotalValues(Inventory_1)}")
@@ -77,6 +78,7 @@ object Z1{
             println(s"Product ID: ${product.id}, Name: ${product.name}, Quantity: ${product.quantity}, Price: ${product.price}")
         }
         println()
-        exist(Inventory_1,102)
+        */
+        exist(Inventory_1,101)
     }
 }
