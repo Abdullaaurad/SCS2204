@@ -11686,3 +11686,1152 @@ WARNING: Unmatched cancel notification for request id 6051
 2024.08.05 10:52:11 INFO  time: compiled SCS2204_f4dd477a3a in 0.53s
 Aug 05, 2024 10:52:16 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2024.08.05 10:52:54 INFO  Shutting down server
+2024.08.05 10:52:54 INFO  shutting down Metals
+2024.08.05 10:52:54 INFO  Shut down connection with build server.
+2024.08.05 10:52:54 INFO  Exiting server
+2024.08.05 11:32:35 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204' for client Visual Studio Code 1.92.0.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@242fee5e]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@7ca5df00]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@242fee5e]
+2024.08.05 11:32:36 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+Aug 05, 2024 11:32:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.08.05 11:32:38 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_07\B1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 11:32:38 INFO  Attempting to connect to the build server...
+2024.08.05 11:32:38 INFO  Running BSP server List(C:\Users\Abdulla\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\.scala-build\ide-options-v2.json, C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204)
+2024.08.05 11:32:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\.metals\bsp.trace.json or C:\Users\Abdulla\AppData\Local\scalameta\metals\cache\bsp.trace.json
+Aug 05, 2024 11:32:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2024.08.05 11:32:46 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_07\B1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 11:32:50 INFO  time: Connected to build server in 11s
+2024.08.05 11:32:50 INFO  Connected to Build server: scala-cli v1.2.1
+2024.08.05 11:32:50 INFO  time: Imported build in 0.17s
+2024.08.05 11:32:51 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.05 11:35:11 INFO  running doctor check
+2024.08.05 11:35:11 INFO  java targets: SCS2204_f4dd477a3a-test, SCS2204_f4dd477a3a
+Aug 05, 2024 11:35:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20
+2024.08.05 11:35:17 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.05 11:35:17 INFO  time: indexed workspace in 6.35s
+2024.08.05 11:40:57 INFO  Shutting down server
+2024.08.05 11:40:57 INFO  shutting down Metals
+2024.08.05 11:40:57 INFO  Shut down connection with build server.
+2024.08.05 11:40:57 INFO  Exiting server
+2024.08.05 11:57:05 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204' for client Visual Studio Code 1.92.0.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@7ebedaad]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@50193935]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@7ebedaad]
+2024.08.05 11:57:07 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.05 11:57:10 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_07\B3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.05 11:57:11 INFO  Attempting to connect to the build server...
+2024.08.05 11:57:11 INFO  Running BSP server List(C:\Users\Abdulla\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\.scala-build\ide-options-v2.json, C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204)
+2024.08.05 11:57:11 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\.metals\bsp.trace.json or C:\Users\Abdulla\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.05 11:57:22 INFO  time: Connected to build server in 11s
+2024.08.05 11:57:22 INFO  Connected to Build server: scala-cli v1.2.1
+2024.08.05 11:57:22 INFO  time: Imported build in 0.14s
+2024.08.05 11:57:23 INFO  running doctor check
+2024.08.05 11:57:23 INFO  java targets: SCS2204_f4dd477a3a-test, SCS2204_f4dd477a3a
+2024.08.05 11:57:27 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.05 11:57:27 INFO  time: indexed workspace in 5.6s
+2024.08.05 12:05:37 INFO  Shutting down server
+2024.08.05 12:05:37 INFO  shutting down Metals
+2024.08.05 12:05:37 INFO  Shut down connection with build server.
+2024.08.05 12:05:37 INFO  Exiting server
+2024.08.06 08:04:26 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204' for client Visual Studio Code 1.92.0.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@225e7098]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@40a32b7c]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@225e7098]
+2024.08.06 08:04:26 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.06 08:04:29 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_07\B1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 08:04:29 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_07\B1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 08:04:29 INFO  Attempting to connect to the build server...
+2024.08.06 08:04:29 INFO  Running BSP server List(C:\Users\Abdulla\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\.scala-build\ide-options-v2.json, C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204)
+2024.08.06 08:04:29 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\.metals\bsp.trace.json or C:\Users\Abdulla\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.06 08:04:31 WARN  no build target for: C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_07\B1.scala
+2024.08.06 08:04:31 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_07\B1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 06, 2024 8:04:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+2024.08.06 08:04:32 INFO  BSP server: Starting compilation server
+2024.08.06 08:04:36 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_07\B1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 08:04:39 INFO  time: Connected to build server in 9.6s
+2024.08.06 08:04:39 INFO  Connected to Build server: scala-cli v1.2.1
+2024.08.06 08:04:39 INFO  time: Imported build in 0.22s
+2024.08.06 08:04:39 INFO  running doctor check
+2024.08.06 08:04:39 INFO  java targets: SCS2204_f4dd477a3a-test, SCS2204_f4dd477a3a
+2024.08.06 08:04:40 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.06 08:04:43 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.06 08:04:44 INFO  time: indexed workspace in 5.36s
+2024.08.06 08:04:48 INFO  time: compiled SCS2204_f4dd477a3a in 7.61s
+2024.08.06 08:05:27 INFO  Shutting down server
+2024.08.06 08:05:27 INFO  shutting down Metals
+2024.08.06 08:05:27 INFO  Shut down connection with build server.
+2024.08.06 08:05:27 INFO  Exiting server
+2024.08.06 08:14:27 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204' for client Visual Studio Code 1.92.0.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@225e7098]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@40a32b7c]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@225e7098]
+2024.08.06 08:14:28 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+Aug 06, 2024 8:14:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.08.06 08:14:30 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_07\B3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 06, 2024 8:14:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+2024.08.06 08:14:31 INFO  Attempting to connect to the build server...
+2024.08.06 08:14:31 INFO  Running BSP server List(C:\Users\Abdulla\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\.scala-build\ide-options-v2.json, C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204)
+2024.08.06 08:14:31 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\.metals\bsp.trace.json or C:\Users\Abdulla\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.06 08:14:34 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_07\B1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 08:14:39 INFO  time: Connected to build server in 8.18s
+2024.08.06 08:14:39 INFO  Connected to Build server: scala-cli v1.2.1
+2024.08.06 08:14:39 INFO  time: Imported build in 0.16s
+2024.08.06 08:14:39 INFO  running doctor check
+2024.08.06 08:14:39 INFO  java targets: SCS2204_f4dd477a3a-test, SCS2204_f4dd477a3a
+2024.08.06 08:14:44 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.06 08:14:45 INFO  time: indexed workspace in 5.68s
+2024.08.06 08:20:05 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.06 08:20:08 INFO  time: compiled SCS2204_f4dd477a3a in 3.08s
+2024.08.06 08:20:17 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.06 08:20:17 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_07\B3.scala
+2024.08.06 08:20:18 INFO  time: compiled SCS2204_f4dd477a3a in 1.13s
+2024.08.06 08:20:24 INFO  Shutting down server
+2024.08.06 08:20:24 INFO  shutting down Metals
+2024.08.06 08:20:24 INFO  Shut down connection with build server.
+2024.08.06 08:20:24 INFO  Exiting server
+2024.08.06 08:55:42 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204' for client Visual Studio Code 1.92.0.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@6ea90d5c]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@7ebedaad]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@6ea90d5c]
+2024.08.06 08:55:43 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.06 08:55:44 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_07\B3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 08:55:45 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_07\B3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 08:55:46 INFO  Attempting to connect to the build server...
+2024.08.06 08:55:46 INFO  Running BSP server List(C:\Users\Abdulla\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\.scala-build\ide-options-v2.json, C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204)
+2024.08.06 08:55:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\.metals\bsp.trace.json or C:\Users\Abdulla\AppData\Local\scalameta\metals\cache\bsp.trace.json
+Aug 06, 2024 8:55:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Aug 06, 2024 8:55:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+Aug 06, 2024 8:55:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Aug 06, 2024 8:55:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Aug 06, 2024 8:55:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+Aug 06, 2024 8:55:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+Aug 06, 2024 8:55:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2024.08.06 08:55:47 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_07\B1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 08:55:47 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_07\B1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 08:55:48 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_07\B1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 08:55:48 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_07\B1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 08:55:51 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_07\B1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 08:55:52 INFO  time: Connected to build server in 6.11s
+2024.08.06 08:55:52 INFO  Connected to Build server: scala-cli v1.2.1
+2024.08.06 08:55:51 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_07\B1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 08:55:52 INFO  time: Imported build in 0.14s
+2024.08.06 08:55:52 INFO  running doctor check
+2024.08.06 08:55:52 INFO  java targets: SCS2204_f4dd477a3a-test, SCS2204_f4dd477a3a
+2024.08.06 08:55:56 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.06 08:55:56 INFO  time: indexed workspace in 4.39s
+2024.08.06 08:56:35 INFO  Shutting down server
+2024.08.06 08:56:35 INFO  shutting down Metals
+2024.08.06 08:56:35 INFO  Shut down connection with build server.
+2024.08.06 08:56:35 INFO  Exiting server
+2024.08.10 15:31:04 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204' for client Visual Studio Code 1.92.0.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@225e7098]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@40a32b7c]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@225e7098]
+2024.08.10 15:31:04 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+Aug 10, 2024 3:31:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+Aug 10, 2024 3:31:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2024.08.10 15:31:07 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_07\B1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.10 15:31:07 INFO  Attempting to connect to the build server...
+2024.08.10 15:31:07 INFO  Running BSP server List(C:\Users\Abdulla\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\.scala-build\ide-options-v2.json, C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204)
+2024.08.10 15:31:08 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\.metals\bsp.trace.json or C:\Users\Abdulla\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.10 15:31:10 INFO  BSP server: Starting compilation server
+Aug 10, 2024 3:31:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Aug 10, 2024 3:31:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.08.10 15:31:17 INFO  time: Connected to build server in 9.35s
+2024.08.10 15:31:17 INFO  Connected to Build server: scala-cli v1.2.1
+2024.08.10 15:31:17 INFO  time: Imported build in 0.19s
+2024.08.10 15:31:19 INFO  Shutting down server
+2024.08.10 15:31:19 INFO  shutting down Metals
+2024.08.10 15:31:19 INFO  Shut down connection with build server.
+2024.08.10 15:31:21 INFO  Exiting server
+2024.08.12 19:48:57 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204' for client Visual Studio Code 1.92.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@26b52836]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@44fc0e14]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@26b52836]
+2024.08.12 19:48:59 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.12 19:49:00 INFO  Attempting to connect to the build server...
+2024.08.12 19:49:00 INFO  Running BSP server List(C:\Users\Abdulla\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\.scala-build\ide-options-v2.json, C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204)
+2024.08.12 19:49:00 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\.metals\bsp.trace.json or C:\Users\Abdulla\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.12 19:49:03 INFO  BSP server: Starting compilation server
+2024.08.12 19:49:11 INFO  time: Connected to build server in 11s
+2024.08.12 19:49:11 INFO  Connected to Build server: scala-cli v1.2.1
+2024.08.12 19:49:11 INFO  time: Imported build in 0.2s
+2024.08.12 19:49:11 INFO  running doctor check
+2024.08.12 19:49:11 INFO  java targets: SCS2204_f4dd477a3a-test, SCS2204_f4dd477a3a
+2024.08.12 19:49:15 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 19:49:16 INFO  time: Imported build in 0.12s
+2024.08.12 19:49:16 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:49:17 INFO  running doctor check
+2024.08.12 19:49:17 INFO  java targets: SCS2204_f4dd477a3a-test, SCS2204_f4dd477a3a
+2024.08.12 19:49:18 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.12 19:49:20 INFO  time: indexed workspace in 8.79s
+2024.08.12 19:49:21 INFO  Deduplicating compilation of SCS2204_f4dd477a3a from bsp client 'scala-cli 1.2.1' (since 10.828s)
+2024.08.12 19:49:21 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:49:21 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 19:49:22 INFO  time: compiled SCS2204_f4dd477a3a in 1.55s
+2024.08.12 19:49:22 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 19:49:24 INFO  time: Imported build in 0.11s
+2024.08.12 19:49:24 INFO  Cancelling compilation on scala-cli server
+2024.08.12 19:49:24 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:49:25 INFO  time: compiled SCS2204_f4dd477a3a in 1.31s
+2024.08.12 19:49:26 INFO  time: indexed workspace in 9.33s
+2024.08.12 19:49:26 WARN  no build target for: C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 19:49:28 WARN  Could not find semantic tokens for: file:///C:/Users/Abdulla/OneDrive/Desktop/Codes/SCS2204/Lab_08/D2.scala
+2024.08.12 19:49:28 INFO  time: code lens generation in 3.91s
+2024.08.12 19:49:28 INFO  running doctor check
+2024.08.12 19:49:28 INFO  java targets: SCS2204_f4dd477a3a-test, SCS2204_f4dd477a3a
+Aug 12, 2024 7:49:29 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\.metals\.reports\metals-full\2024-08-12\r_compiler-error_(SCS2204_f4dd477a3a)_19-49-29-023.md
+2024.08.12 19:49:29 INFO  time: code lens generation in 5.74s
+Aug 12, 2024 7:49:29 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\.metals\.reports\metals-full\2024-08-12\r_compiler-error_(SCS2204_f4dd477a3a)_19-49-29-091.md
+2024.08.12 19:49:29 INFO  time: code lens generation in 6.22s
+Aug 12, 2024 7:49:30 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\.metals\.reports\metals-full\2024-08-12\r_compiler-error_(SCS2204_f4dd477a3a)_19-49-30-898.md
+2024.08.12 19:49:30 WARN  Could not find semantic tokens for: file:///C:/Users/Abdulla/OneDrive/Desktop/Codes/SCS2204/Lab_08/D2.scala
+2024.08.12 19:49:33 INFO  time: indexed workspace in 9.63s
+Aug 12, 2024 7:50:30 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\.metals\.reports\metals-full\2024-08-12\r_compiler-error_(SCS2204_f4dd477a3a)_19-50-30-211.md
+2024.08.12 19:50:30 WARN  Could not find semantic tokens for: file:///C:/Users/Abdulla/OneDrive/Desktop/Codes/SCS2204/Lab_08/D2.scala
+2024.08.12 19:50:31 INFO  Shutting down server
+2024.08.12 19:50:31 INFO  shutting down Metals
+2024.08.12 19:50:31 INFO  Shut down connection with build server.
+2024.08.12 19:50:31 INFO  Exiting server
+2024.08.12 19:51:07 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204' for client Visual Studio Code 1.92.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@5c82c658]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@1c753b09]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@5c82c658]
+2024.08.12 19:51:08 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.12 19:51:09 INFO  Attempting to connect to the build server...
+2024.08.12 19:51:09 INFO  Running BSP server List(C:\Users\Abdulla\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\.scala-build\ide-options-v2.json, C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204)
+2024.08.12 19:51:09 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\.metals\bsp.trace.json or C:\Users\Abdulla\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.12 19:51:10 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 12, 2024 7:51:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Aug 12, 2024 7:51:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+Aug 12, 2024 7:51:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2024.08.12 19:51:13 WARN  Could not find semantic tokens for: file:///C:/Users/Abdulla/OneDrive/Desktop/Codes/SCS2204/Lab_08/D2.scala
+2024.08.12 19:51:15 INFO  time: Connected to build server in 5.68s
+2024.08.12 19:51:15 INFO  Connected to Build server: scala-cli v1.2.1
+2024.08.12 19:51:15 INFO  running doctor check
+2024.08.12 19:51:15 INFO  java targets: SCS2204_f4dd477a3a-test, SCS2204_f4dd477a3a
+2024.08.12 19:51:19 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.12 19:51:19 INFO  time: indexed workspace in 4.39s
+2024.08.12 19:51:21 WARN  Could not find semantic tokens for: file:///C:/Users/Abdulla/OneDrive/Desktop/Codes/SCS2204/Lab_08/D2.scala
+2024.08.12 19:51:23 WARN  Could not find semantic tokens for: file:///C:/Users/Abdulla/OneDrive/Desktop/Codes/SCS2204/Lab_08/D2.scala
+2024.08.12 19:51:37 WARN  Could not find semantic tokens for: file:///C:/Users/Abdulla/OneDrive/Desktop/Codes/SCS2204/Lab_08/D2.scala
+2024.08.12 19:51:39 WARN  Could not find semantic tokens for: file:///C:/Users/Abdulla/OneDrive/Desktop/Codes/SCS2204/Lab_08/D2.scala
+2024.08.12 19:51:40 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:51:40 INFO  time: compiled SCS2204_f4dd477a3a in 0.32s
+2024.08.12 19:51:40 WARN  Could not find semantic tokens for: file:///C:/Users/Abdulla/OneDrive/Desktop/Codes/SCS2204/Lab_08/D2.scala
+2024.08.12 19:51:44 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:51:46 INFO  time: compiled SCS2204_f4dd477a3a in 1.81s
+2024.08.12 19:51:50 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+Aug 12, 2024 7:51:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 93
+Aug 12, 2024 7:51:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 94
+2024.08.12 19:51:50 INFO  time: compiled SCS2204_f4dd477a3a in 0.49s
+Aug 12, 2024 7:51:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 106
+2024.08.12 19:51:52 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 19:51:53 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 19:51:54 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:51:54 INFO  time: compiled SCS2204_f4dd477a3a in 0.64s
+2024.08.12 19:51:55 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 19:51:56 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 19:51:57 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 19:51:57 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:51:57 INFO  time: compiled SCS2204_f4dd477a3a in 0.2s
+2024.08.12 19:51:59 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 19:52:00 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 19:52:01 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:52:01 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 19:52:01 INFO  time: compiled SCS2204_f4dd477a3a in 0.76s
+2024.08.12 19:53:07 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:53:09 INFO  time: compiled SCS2204_f4dd477a3a in 1.35s
+2024.08.12 19:53:12 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:53:12 INFO  time: compiled SCS2204_f4dd477a3a in 0.7s
+2024.08.12 19:53:16 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:53:16 INFO  time: compiled SCS2204_f4dd477a3a in 0.62s
+2024.08.12 19:53:19 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:53:19 INFO  time: compiled SCS2204_f4dd477a3a in 0.57s
+2024.08.12 19:53:52 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_03\C2.scala
+2024.08.12 19:54:15 WARN  Could not find semantic tokens for: file:///C:/Users/Abdulla/OneDrive/Desktop/Codes/SCS2204/Lab_08/D1.scala
+2024.08.12 19:54:21 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:54:21 INFO  time: compiled SCS2204_f4dd477a3a in 0.57s
+2024.08.12 19:54:24 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:54:24 INFO  time: compiled SCS2204_f4dd477a3a in 0.42s
+2024.08.12 19:54:27 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+Aug 12, 2024 7:54:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 508
+2024.08.12 19:54:27 INFO  time: compiled SCS2204_f4dd477a3a in 0.63s
+Aug 12, 2024 7:54:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 518
+2024.08.12 19:54:32 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:54:32 INFO  time: compiled SCS2204_f4dd477a3a in 0.61s
+2024.08.12 19:54:41 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:54:41 INFO  time: compiled SCS2204_f4dd477a3a in 0.36s
+2024.08.12 19:54:46 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:54:46 INFO  time: compiled SCS2204_f4dd477a3a in 0.33s
+2024.08.12 19:54:48 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:54:48 INFO  time: compiled SCS2204_f4dd477a3a in 0.31s
+2024.08.12 19:54:52 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:54:52 INFO  time: compiled SCS2204_f4dd477a3a in 0.14s
+2024.08.12 19:54:53 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:54:53 INFO  time: compiled SCS2204_f4dd477a3a in 0.31s
+2024.08.12 19:54:56 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:54:56 INFO  time: compiled SCS2204_f4dd477a3a in 0.33s
+2024.08.12 19:55:01 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:55:01 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 19:55:01 INFO  time: compiled SCS2204_f4dd477a3a in 0.6s
+2024.08.12 19:55:04 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:55:04 INFO  time: compiled SCS2204_f4dd477a3a in 98ms
+2024.08.12 19:55:06 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:55:06 INFO  time: compiled SCS2204_f4dd477a3a in 0.1s
+2024.08.12 19:55:16 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:55:16 INFO  time: compiled SCS2204_f4dd477a3a in 0.13s
+2024.08.12 19:55:21 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:55:21 INFO  time: compiled SCS2204_f4dd477a3a in 0.1s
+Aug 12, 2024 7:55:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 763
+2024.08.12 19:55:28 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:55:28 INFO  time: compiled SCS2204_f4dd477a3a in 0.21s
+2024.08.12 19:55:30 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:55:30 INFO  time: compiled SCS2204_f4dd477a3a in 0.1s
+2024.08.12 19:55:37 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:55:37 INFO  time: compiled SCS2204_f4dd477a3a in 0.12s
+2024.08.12 19:55:39 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:55:39 INFO  time: compiled SCS2204_f4dd477a3a in 0.24s
+2024.08.12 19:55:43 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:55:43 INFO  time: compiled SCS2204_f4dd477a3a in 0.12s
+2024.08.12 19:55:48 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:55:48 INFO  time: compiled SCS2204_f4dd477a3a in 0.11s
+2024.08.12 19:55:51 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:55:51 INFO  time: compiled SCS2204_f4dd477a3a in 0.11s
+2024.08.12 19:55:58 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:55:58 INFO  time: compiled SCS2204_f4dd477a3a in 0.13s
+2024.08.12 19:56:04 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:56:04 INFO  time: compiled SCS2204_f4dd477a3a in 0.1s
+2024.08.12 19:56:07 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:56:07 INFO  time: compiled SCS2204_f4dd477a3a in 0.11s
+2024.08.12 19:56:09 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:56:09 INFO  time: compiled SCS2204_f4dd477a3a in 0.18s
+2024.08.12 19:56:14 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:56:14 INFO  time: compiled SCS2204_f4dd477a3a in 0.48s
+2024.08.12 19:56:16 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:56:16 INFO  time: compiled SCS2204_f4dd477a3a in 0.14s
+2024.08.12 19:56:18 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:56:18 INFO  time: compiled SCS2204_f4dd477a3a in 0.13s
+2024.08.12 19:56:20 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:56:20 INFO  time: compiled SCS2204_f4dd477a3a in 0.11s
+2024.08.12 19:56:23 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:56:23 INFO  time: compiled SCS2204_f4dd477a3a in 0.41s
+2024.08.12 19:56:27 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:56:27 INFO  time: compiled SCS2204_f4dd477a3a in 95ms
+2024.08.12 19:56:34 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:56:34 INFO  time: compiled SCS2204_f4dd477a3a in 0.15s
+2024.08.12 19:56:36 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:56:36 INFO  time: compiled SCS2204_f4dd477a3a in 0.11s
+2024.08.12 19:56:41 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:56:41 INFO  time: compiled SCS2204_f4dd477a3a in 0.32s
+2024.08.12 19:59:01 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:59:01 INFO  time: compiled SCS2204_f4dd477a3a in 0.37s
+2024.08.12 19:59:03 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:59:03 INFO  time: compiled SCS2204_f4dd477a3a in 0.24s
+Aug 12, 2024 7:59:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1405
+2024.08.12 19:59:21 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:59:21 INFO  time: compiled SCS2204_f4dd477a3a in 0.26s
+2024.08.12 19:59:24 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:59:24 INFO  time: compiled SCS2204_f4dd477a3a in 0.14s
+2024.08.12 19:59:26 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:59:26 INFO  time: compiled SCS2204_f4dd477a3a in 0.19s
+2024.08.12 19:59:29 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:59:29 INFO  time: compiled SCS2204_f4dd477a3a in 0.13s
+2024.08.12 19:59:33 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:59:33 INFO  time: compiled SCS2204_f4dd477a3a in 0.12s
+2024.08.12 19:59:37 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:59:37 INFO  time: compiled SCS2204_f4dd477a3a in 0.1s
+2024.08.12 19:59:41 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:59:41 INFO  time: compiled SCS2204_f4dd477a3a in 92ms
+2024.08.12 19:59:45 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:59:45 INFO  time: compiled SCS2204_f4dd477a3a in 0.36s
+2024.08.12 19:59:49 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:59:49 INFO  time: compiled SCS2204_f4dd477a3a in 0.15s
+2024.08.12 19:59:51 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:59:51 INFO  time: compiled SCS2204_f4dd477a3a in 0.1s
+2024.08.12 19:59:53 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:59:53 INFO  time: compiled SCS2204_f4dd477a3a in 0.13s
+Aug 12, 2024 7:59:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1697
+2024.08.12 19:59:59 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 19:59:59 INFO  time: compiled SCS2204_f4dd477a3a in 0.3s
+2024.08.12 20:00:00 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:00:00 INFO  time: compiled SCS2204_f4dd477a3a in 0.31s
+2024.08.12 20:00:02 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:00:02 INFO  time: compiled SCS2204_f4dd477a3a in 0.11s
+2024.08.12 20:00:09 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:00:09 INFO  time: compiled SCS2204_f4dd477a3a in 0.15s
+2024.08.12 20:00:14 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:00:14 INFO  time: compiled SCS2204_f4dd477a3a in 0.12s
+2024.08.12 20:00:16 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:00:16 INFO  time: compiled SCS2204_f4dd477a3a in 0.1s
+2024.08.12 20:00:18 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:00:18 INFO  time: compiled SCS2204_f4dd477a3a in 96ms
+2024.08.12 20:00:19 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:00:19 INFO  time: compiled SCS2204_f4dd477a3a in 94ms
+2024.08.12 20:00:22 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:00:22 INFO  time: compiled SCS2204_f4dd477a3a in 0.41s
+2024.08.12 20:00:32 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:00:32 INFO  time: compiled SCS2204_f4dd477a3a in 0.24s
+2024.08.12 20:00:33 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:00:33 INFO  time: compiled SCS2204_f4dd477a3a in 0.2s
+2024.08.12 20:00:37 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:00:37 INFO  time: compiled SCS2204_f4dd477a3a in 0.39s
+2024.08.12 20:00:39 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:00:39 INFO  time: compiled SCS2204_f4dd477a3a in 0.52s
+2024.08.12 20:00:45 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:00:45 INFO  time: compiled SCS2204_f4dd477a3a in 0.18s
+2024.08.12 20:00:47 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:00:47 INFO  time: compiled SCS2204_f4dd477a3a in 0.15s
+Aug 12, 2024 8:00:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2141
+2024.08.12 20:00:54 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:00:54 INFO  time: compiled SCS2204_f4dd477a3a in 0.57s
+2024.08.12 20:00:54 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:00:55 INFO  time: compiled SCS2204_f4dd477a3a in 0.18s
+2024.08.12 20:00:56 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:00:56 INFO  time: compiled SCS2204_f4dd477a3a in 0.38s
+2024.08.12 20:00:58 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:00:58 INFO  time: compiled SCS2204_f4dd477a3a in 0.35s
+2024.08.12 20:01:01 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:01:01 INFO  time: compiled SCS2204_f4dd477a3a in 0.16s
+2024.08.12 20:01:03 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:01:03 INFO  time: compiled SCS2204_f4dd477a3a in 0.27s
+2024.08.12 20:01:05 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:01:05 INFO  time: compiled SCS2204_f4dd477a3a in 0.26s
+2024.08.12 20:01:12 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:01:12 INFO  time: compiled SCS2204_f4dd477a3a in 0.29s
+2024.08.12 20:02:53 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:02:53 INFO  time: compiled SCS2204_f4dd477a3a in 0.45s
+2024.08.12 20:02:54 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:02:54 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:02:54 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:02:54 INFO  time: compiled SCS2204_f4dd477a3a in 0.51s
+2024.08.12 20:03:01 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:03:01 INFO  time: compiled SCS2204_f4dd477a3a in 0.33s
+2024.08.12 20:03:18 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:03:18 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:03:18 INFO  time: compiled SCS2204_f4dd477a3a in 0.29s
+2024.08.12 20:03:28 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:03:28 INFO  time: compiled SCS2204_f4dd477a3a in 0.17s
+Aug 12, 2024 8:03:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2439
+2024.08.12 20:03:33 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:03:33 INFO  time: compiled SCS2204_f4dd477a3a in 0.24s
+2024.08.12 20:03:35 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:03:35 INFO  time: compiled SCS2204_f4dd477a3a in 0.19s
+2024.08.12 20:03:37 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:03:37 INFO  time: compiled SCS2204_f4dd477a3a in 0.18s
+2024.08.12 20:03:40 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:03:40 INFO  time: compiled SCS2204_f4dd477a3a in 0.15s
+2024.08.12 20:03:43 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:03:43 INFO  time: compiled SCS2204_f4dd477a3a in 0.15s
+Aug 12, 2024 8:03:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2557
+2024.08.12 20:03:46 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:03:46 INFO  time: compiled SCS2204_f4dd477a3a in 0.17s
+Aug 12, 2024 8:03:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2564
+2024.08.12 20:03:48 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:03:48 INFO  time: compiled SCS2204_f4dd477a3a in 0.23s
+2024.08.12 20:03:54 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:03:54 INFO  time: compiled SCS2204_f4dd477a3a in 0.44s
+2024.08.12 20:03:56 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:03:56 INFO  time: compiled SCS2204_f4dd477a3a in 0.29s
+2024.08.12 20:03:57 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:03:57 INFO  time: compiled SCS2204_f4dd477a3a in 0.49s
+2024.08.12 20:03:58 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:03:59 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:03:59 INFO  time: compiled SCS2204_f4dd477a3a in 0.3s
+2024.08.12 20:03:59 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:04:01 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:04:02 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:04:02 INFO  time: compiled SCS2204_f4dd477a3a in 0.21s
+2024.08.12 20:04:03 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:04:05 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:04:05 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:04:06 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:04:05 INFO  time: compiled SCS2204_f4dd477a3a in 0.4s
+2024.08.12 20:04:06 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:04:08 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:04:09 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:04:09 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:04:10 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:04:10 INFO  time: compiled SCS2204_f4dd477a3a in 0.3s
+2024.08.12 20:04:10 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:04:11 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:04:11 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:04:11 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:04:11 INFO  time: compiled SCS2204_f4dd477a3a in 0.38s
+2024.08.12 20:04:12 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:04:12 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:04:12 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:04:12 INFO  time: compiled SCS2204_f4dd477a3a in 0.43s
+2024.08.12 20:04:16 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:04:16 INFO  time: compiled SCS2204_f4dd477a3a in 0.45s
+2024.08.12 20:04:19 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:04:19 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:04:19 INFO  time: compiled SCS2204_f4dd477a3a in 0.32s
+2024.08.12 20:04:20 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:04:21 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:04:22 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:04:23 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:04:23 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:04:23 INFO  time: compiled SCS2204_f4dd477a3a in 0.39s
+2024.08.12 20:04:27 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:04:27 INFO  time: compiled SCS2204_f4dd477a3a in 0.39s
+2024.08.12 20:04:29 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:04:29 INFO  time: compiled SCS2204_f4dd477a3a in 0.39s
+2024.08.12 20:04:50 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:04:50 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:04:50 INFO  time: compiled SCS2204_f4dd477a3a in 0.35s
+2024.08.12 20:04:53 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:04:53 INFO  time: compiled SCS2204_f4dd477a3a in 0.14s
+2024.08.12 20:04:56 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:04:56 INFO  time: compiled SCS2204_f4dd477a3a in 0.33s
+2024.08.12 20:04:58 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:04:58 INFO  time: compiled SCS2204_f4dd477a3a in 0.33s
+2024.08.12 20:05:04 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:05:04 INFO  time: compiled SCS2204_f4dd477a3a in 0.13s
+2024.08.12 20:05:05 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:05:08 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:05:08 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:05:09 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:05:09 INFO  time: compiled SCS2204_f4dd477a3a in 0.13s
+2024.08.12 20:05:09 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:05:11 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:05:12 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:05:12 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:05:12 INFO  time: compiled SCS2204_f4dd477a3a in 0.34s
+2024.08.12 20:05:15 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:05:15 INFO  time: compiled SCS2204_f4dd477a3a in 0.47s
+2024.08.12 20:05:21 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:05:21 INFO  time: compiled SCS2204_f4dd477a3a in 0.14s
+2024.08.12 20:05:22 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:05:22 INFO  time: compiled SCS2204_f4dd477a3a in 0.14s
+2024.08.12 20:05:27 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:05:27 INFO  time: compiled SCS2204_f4dd477a3a in 0.11s
+2024.08.12 20:05:32 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:05:32 INFO  time: compiled SCS2204_f4dd477a3a in 0.15s
+Aug 12, 2024 8:05:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3133
+2024.08.12 20:05:39 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:05:39 INFO  time: compiled SCS2204_f4dd477a3a in 0.48s
+2024.08.12 20:05:46 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:05:46 INFO  time: compiled SCS2204_f4dd477a3a in 0.35s
+2024.08.12 20:05:53 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:05:53 INFO  time: compiled SCS2204_f4dd477a3a in 0.15s
+2024.08.12 20:05:53 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:05:54 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+Aug 12, 2024 8:05:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3249
+2024.08.12 20:05:56 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:06:01 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:06:01 INFO  time: compiled SCS2204_f4dd477a3a in 0.17s
+2024.08.12 20:06:05 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:06:05 INFO  time: compiled SCS2204_f4dd477a3a in 0.36s
+2024.08.12 20:06:07 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:06:07 INFO  time: compiled SCS2204_f4dd477a3a in 0.34s
+2024.08.12 20:08:02 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:08:02 INFO  time: compiled SCS2204_f4dd477a3a in 0.23s
+2024.08.12 20:08:03 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:08:03 INFO  time: compiled SCS2204_f4dd477a3a in 0.41s
+Aug 12, 2024 8:08:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3401
+Aug 12, 2024 8:09:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3415
+Aug 12, 2024 8:09:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3418
+Aug 12, 2024 8:09:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3417
+2024.08.12 20:09:32 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:09:32 INFO  time: compiled SCS2204_f4dd477a3a in 0.46s
+2024.08.12 20:09:34 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:09:35 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:09:35 INFO  time: compiled SCS2204_f4dd477a3a in 0.61s
+2024.08.12 20:09:42 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:09:42 INFO  time: compiled SCS2204_f4dd477a3a in 0.34s
+2024.08.12 20:10:08 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:10:08 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:10:08 INFO  time: compiled SCS2204_f4dd477a3a in 0.4s
+2024.08.12 20:10:08 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:10:15 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:10:15 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:10:17 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:10:18 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:10:18 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:10:18 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:10:18 INFO  time: compiled SCS2204_f4dd477a3a in 0.16s
+2024.08.12 20:10:18 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+Aug 12, 2024 8:10:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3523
+2024.08.12 20:10:23 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:10:23 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:10:23 INFO  time: compiled SCS2204_f4dd477a3a in 0.21s
+2024.08.12 20:10:24 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:10:47 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:10:47 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:10:48 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:10:48 INFO  time: compiled SCS2204_f4dd477a3a in 0.33s
+Aug 12, 2024 8:10:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3627
+2024.08.12 20:11:02 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:11:02 INFO  time: compiled SCS2204_f4dd477a3a in 0.19s
+2024.08.12 20:11:03 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:11:03 INFO  time: compiled SCS2204_f4dd477a3a in 0.13s
+2024.08.12 20:11:04 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:11:04 INFO  time: compiled SCS2204_f4dd477a3a in 0.16s
+2024.08.12 20:11:06 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:11:06 INFO  time: compiled SCS2204_f4dd477a3a in 0.25s
+2024.08.12 20:11:08 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:11:08 INFO  time: compiled SCS2204_f4dd477a3a in 0.44s
+2024.08.12 20:11:10 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:11:10 INFO  time: compiled SCS2204_f4dd477a3a in 0.39s
+2024.08.12 20:11:13 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:11:13 INFO  time: compiled SCS2204_f4dd477a3a in 0.37s
+2024.08.12 20:11:18 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:11:18 INFO  time: compiled SCS2204_f4dd477a3a in 0.55s
+2024.08.12 20:11:19 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:11:19 INFO  time: compiled SCS2204_f4dd477a3a in 0.29s
+2024.08.12 20:11:30 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:11:30 INFO  time: compiled SCS2204_f4dd477a3a in 0.49s
+2024.08.12 20:11:32 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:11:32 INFO  time: compiled SCS2204_f4dd477a3a in 0.51s
+2024.08.12 20:11:34 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:11:34 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:11:34 INFO  time: compiled SCS2204_f4dd477a3a in 0.51s
+2024.08.12 20:11:37 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:11:37 INFO  time: compiled SCS2204_f4dd477a3a in 0.31s
+2024.08.12 20:11:38 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:11:39 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:11:39 INFO  time: compiled SCS2204_f4dd477a3a in 0.21s
+2024.08.12 20:11:39 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:11:43 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:11:44 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:11:46 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:11:47 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:11:51 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:11:51 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:11:52 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:11:53 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:11:53 INFO  time: compiled SCS2204_f4dd477a3a in 0.23s
+2024.08.12 20:11:54 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:11:56 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:11:57 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:11:57 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:11:57 INFO  time: compiled SCS2204_f4dd477a3a in 0.2s
+2024.08.12 20:11:57 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:11:58 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:11:59 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:11:59 INFO  time: compiled SCS2204_f4dd477a3a in 0.13s
+2024.08.12 20:11:59 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:12:00 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:12:01 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:12:02 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:12:02 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:12:02 INFO  time: compiled SCS2204_f4dd477a3a in 0.23s
+2024.08.12 20:12:03 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:12:10 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:12:10 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:12:11 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:12:11 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:12:11 INFO  time: compiled SCS2204_f4dd477a3a in 0.16s
+2024.08.12 20:12:12 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:12:13 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:12:14 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:12:14 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:12:14 INFO  time: compiled SCS2204_f4dd477a3a in 0.14s
+2024.08.12 20:12:14 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:12:23 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:12:24 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:12:25 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:12:25 INFO  time: compiled SCS2204_f4dd477a3a in 0.14s
+2024.08.12 20:12:25 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:12:26 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:12:26 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:12:26 INFO  time: compiled SCS2204_f4dd477a3a in 0.34s
+Aug 12, 2024 8:12:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4142
+2024.08.12 20:27:55 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:27:55 INFO  time: compiled SCS2204_f4dd477a3a in 0.22s
+2024.08.12 20:28:00 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:28:00 INFO  time: compiled SCS2204_f4dd477a3a in 0.39s
+2024.08.12 20:29:21 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:29:21 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:29:21 INFO  time: compiled SCS2204_f4dd477a3a in 0.24s
+2024.08.12 20:29:22 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:29:27 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:29:27 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:29:27 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:29:27 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:29:31 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:29:31 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:29:32 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:29:32 INFO  time: compiled SCS2204_f4dd477a3a in 0.54s
+2024.08.12 20:29:33 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:29:34 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:29:34 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:29:34 INFO  time: compiled SCS2204_f4dd477a3a in 0.35s
+2024.08.12 20:29:35 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:29:35 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:29:39 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:29:40 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:29:40 INFO  time: compiled SCS2204_f4dd477a3a in 0.16s
+2024.08.12 20:29:40 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:29:42 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:29:42 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:29:43 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:29:44 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:29:44 INFO  time: compiled SCS2204_f4dd477a3a in 0.38s
+2024.08.12 20:29:45 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:29:45 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:29:46 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:29:47 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:29:48 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:29:48 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:29:48 INFO  time: compiled SCS2204_f4dd477a3a in 0.26s
+2024.08.12 20:29:48 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:29:50 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:29:50 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:29:51 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:29:51 INFO  time: compiled SCS2204_f4dd477a3a in 0.17s
+2024.08.12 20:29:51 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:29:53 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:29:54 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:29:54 INFO  time: compiled SCS2204_f4dd477a3a in 0.24s
+2024.08.12 20:29:54 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:29:55 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:29:56 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:29:57 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:29:57 INFO  time: compiled SCS2204_f4dd477a3a in 0.14s
+2024.08.12 20:29:57 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:30:01 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:30:01 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:30:02 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:30:02 INFO  time: compiled SCS2204_f4dd477a3a in 0.12s
+2024.08.12 20:30:02 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:30:09 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:30:10 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:30:10 INFO  time: compiled SCS2204_f4dd477a3a in 0.22s
+2024.08.12 20:30:10 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:30:11 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:30:12 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:30:14 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:30:14 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:30:15 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:30:15 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:30:16 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:30:16 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:30:18 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:30:19 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:30:19 INFO  time: compiled SCS2204_f4dd477a3a in 0.13s
+2024.08.12 20:30:19 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:30:21 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:30:21 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:30:22 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:30:23 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:30:23 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:30:25 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:30:25 INFO  time: compiled SCS2204_f4dd477a3a in 0.13s
+2024.08.12 20:30:25 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:30:26 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:30:26 INFO  time: compiled SCS2204_f4dd477a3a in 0.14s
+2024.08.12 20:30:26 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:30:26 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+Aug 12, 2024 8:30:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4626
+2024.08.12 20:30:28 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:30:29 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:30:29 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:30:30 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:30:29 INFO  time: compiled SCS2204_f4dd477a3a in 0.18s
+2024.08.12 20:30:30 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:30:57 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:30:57 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:30:59 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:30:59 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:31:00 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:31:00 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:31:00 INFO  time: compiled SCS2204_f4dd477a3a in 0.4s
+2024.08.12 20:31:01 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:31:02 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:31:03 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:31:03 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:31:03 INFO  time: compiled SCS2204_f4dd477a3a in 0.35s
+2024.08.12 20:31:04 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:31:05 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:31:05 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:31:06 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:31:05 INFO  time: compiled SCS2204_f4dd477a3a in 0.45s
+2024.08.12 20:31:17 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:31:17 INFO  time: compiled SCS2204_f4dd477a3a in 0.13s
+2024.08.12 20:31:19 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:31:19 INFO  time: compiled SCS2204_f4dd477a3a in 0.35s
+2024.08.12 20:31:21 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:31:21 INFO  time: compiled SCS2204_f4dd477a3a in 0.29s
+Aug 12, 2024 8:31:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4752
+2024.08.12 20:31:25 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:31:25 INFO  time: compiled SCS2204_f4dd477a3a in 0.33s
+2024.08.12 20:31:27 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:31:27 INFO  time: compiled SCS2204_f4dd477a3a in 0.31s
+2024.08.12 20:31:36 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:31:36 INFO  time: compiled SCS2204_f4dd477a3a in 0.47s
+2024.08.12 20:31:38 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:31:39 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:31:38 INFO  time: compiled SCS2204_f4dd477a3a in 0.32s
+2024.08.12 20:31:49 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:31:49 INFO  time: compiled SCS2204_f4dd477a3a in 0.35s
+2024.08.12 20:31:50 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:31:50 INFO  time: compiled SCS2204_f4dd477a3a in 0.3s
+2024.08.12 20:31:58 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:31:59 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:31:58 INFO  time: compiled SCS2204_f4dd477a3a in 0.37s
+Aug 12, 2024 8:32:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4933
+2024.08.12 20:32:03 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:32:03 INFO  time: compiled SCS2204_f4dd477a3a in 0.4s
+2024.08.12 20:32:04 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:32:04 INFO  time: compiled SCS2204_f4dd477a3a in 0.35s
+2024.08.12 20:32:21 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:32:21 INFO  time: compiled SCS2204_f4dd477a3a in 0.15s
+2024.08.12 20:33:03 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:33:03 INFO  time: compiled SCS2204_f4dd477a3a in 0.33s
+2024.08.12 20:33:06 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:33:06 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:33:06 INFO  time: compiled SCS2204_f4dd477a3a in 0.39s
+2024.08.12 20:35:30 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:35:30 INFO  time: compiled SCS2204_f4dd477a3a in 0.54s
+2024.08.12 20:35:32 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:35:33 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:35:33 INFO  time: compiled SCS2204_f4dd477a3a in 0.58s
+2024.08.12 20:35:40 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:35:40 INFO  time: compiled SCS2204_f4dd477a3a in 0.41s
+2024.08.12 20:36:18 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:36:18 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:36:18 INFO  time: compiled SCS2204_f4dd477a3a in 0.38s
+2024.08.12 20:36:23 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:36:23 INFO  time: compiled SCS2204_f4dd477a3a in 0.28s
+2024.08.12 20:36:25 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:36:25 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:36:25 INFO  time: compiled SCS2204_f4dd477a3a in 0.57s
+2024.08.12 20:36:28 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:36:28 INFO  time: compiled SCS2204_f4dd477a3a in 0.36s
+2024.08.12 20:37:02 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:37:02 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:37:02 INFO  time: compiled SCS2204_f4dd477a3a in 0.42s
+2024.08.12 20:37:05 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:37:05 INFO  time: compiled SCS2204_f4dd477a3a in 0.42s
+2024.08.12 20:37:09 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:37:09 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:37:09 INFO  time: compiled SCS2204_f4dd477a3a in 0.34s
+2024.08.12 20:37:13 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:37:13 INFO  time: compiled SCS2204_f4dd477a3a in 0.28s
+2024.08.12 20:37:21 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:37:21 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:37:21 INFO  time: compiled SCS2204_f4dd477a3a in 0.31s
+2024.08.12 20:37:24 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:37:24 INFO  time: compiled SCS2204_f4dd477a3a in 0.29s
+2024.08.12 20:37:38 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:37:38 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:37:38 INFO  time: compiled SCS2204_f4dd477a3a in 0.27s
+2024.08.12 20:37:41 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:37:41 INFO  time: compiled SCS2204_f4dd477a3a in 0.44s
+2024.08.12 20:37:50 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:37:50 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:37:50 INFO  time: compiled SCS2204_f4dd477a3a in 0.39s
+2024.08.12 20:37:52 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:37:52 INFO  time: compiled SCS2204_f4dd477a3a in 0.28s
+2024.08.12 20:38:11 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:38:11 INFO  time: compiled SCS2204_f4dd477a3a in 0.24s
+2024.08.12 20:38:12 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:38:13 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:38:14 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:38:14 INFO  time: compiled SCS2204_f4dd477a3a in 0.39s
+2024.08.12 20:38:17 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:38:17 INFO  time: compiled SCS2204_f4dd477a3a in 0.18s
+2024.08.12 20:38:20 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:38:20 INFO  time: compiled SCS2204_f4dd477a3a in 0.27s
+2024.08.12 20:40:57 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:40:57 INFO  time: compiled SCS2204_f4dd477a3a in 0.44s
+2024.08.12 20:41:00 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:41:00 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:41:00 INFO  time: compiled SCS2204_f4dd477a3a in 0.4s
+2024.08.12 20:41:10 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:41:10 INFO  time: compiled SCS2204_f4dd477a3a in 0.33s
+Aug 12, 2024 8:41:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5548
+2024.08.12 20:43:16 WARN  Could not find semantic tokens for: file:///C:/Users/Abdulla/OneDrive/Desktop/Codes/SCS2204/Lab_08/D1.scala
+2024.08.12 20:43:24 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 20:43:24 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 20:43:25 WARN  Could not find semantic tokens for: file:///C:/Users/Abdulla/OneDrive/Desktop/Codes/SCS2204/Lab_08/D3.scala
+2024.08.12 20:43:24 INFO  Cancelling compilation on scala-cli server
+2024.08.12 20:43:25 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 20:43:25 WARN  Could not find semantic tokens for: file:///C:/Users/Abdulla/OneDrive/Desktop/Codes/SCS2204/Lab_08/D3.scala
+2024.08.12 20:43:25 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:43:25 INFO  time: compiled SCS2204_f4dd477a3a in 0.2s
+2024.08.12 20:43:26 INFO  time: Imported build in 0.28s
+2024.08.12 20:43:25 INFO  running doctor check
+2024.08.12 20:43:25 INFO  java targets: SCS2204_f4dd477a3a-test, SCS2204_f4dd477a3a
+2024.08.12 20:43:29 INFO  time: indexed workspace in 3.76s
+2024.08.12 20:43:32 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 20:43:32 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 20:43:32 INFO  Cancelling compilation on scala-cli server
+2024.08.12 20:43:33 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:43:34 WARN  Could not find semantic tokens for: file:///C:/Users/Abdulla/OneDrive/Desktop/Codes/SCS2204/Lab_08/D3.scala
+2024.08.12 20:43:34 INFO  time: compiled SCS2204_f4dd477a3a in 1.06s
+2024.08.12 20:43:34 INFO  time: Imported build in 1.21s
+2024.08.12 20:43:35 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 20:43:35 INFO  running doctor check
+2024.08.12 20:43:35 INFO  java targets: SCS2204_f4dd477a3a-test, SCS2204_f4dd477a3a
+2024.08.12 20:43:35 INFO  time: code lens generation in 3.23s
+2024.08.12 20:43:36 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 20:43:36 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 20:43:36 WARN  Could not find semantic tokens for: file:///C:/Users/Abdulla/OneDrive/Desktop/Codes/SCS2204/Lab_08/D2.scala
+2024.08.12 20:43:37 INFO  Cancelling compilation on scala-cli server
+2024.08.12 20:43:37 INFO  no build target found for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 20:43:37 WARN  Could not find semantic tokens for: file:///C:/Users/Abdulla/OneDrive/Desktop/Codes/SCS2204/Lab_08/D2.scala
+2024.08.12 20:43:37 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:43:37 INFO  time: compiled SCS2204_f4dd477a3a in 0.23s
+2024.08.12 20:43:37 INFO  time: Imported build in 0.41s
+2024.08.12 20:43:37 INFO  running doctor check
+2024.08.12 20:43:37 INFO  java targets: SCS2204_f4dd477a3a-test, SCS2204_f4dd477a3a
+2024.08.12 20:43:40 INFO  time: indexed workspace in 5.45s
+2024.08.12 20:43:41 INFO  time: indexed workspace in 3.9s
+2024.08.12 20:43:41 WARN  Could not find semantic tokens for: file:///C:/Users/Abdulla/OneDrive/Desktop/Codes/SCS2204/Lab_08/D2.scala
+2024.08.12 20:43:41 WARN  Could not find semantic tokens for: file:///C:/Users/Abdulla/OneDrive/Desktop/Codes/SCS2204/Lab_08/D2.scala
+2024.08.12 20:43:43 WARN  Could not find semantic tokens for: file:///C:/Users/Abdulla/OneDrive/Desktop/Codes/SCS2204/Lab_08/D2.scala
+2024.08.12 20:43:43 WARN  Could not find semantic tokens for: file:///C:/Users/Abdulla/OneDrive/Desktop/Codes/SCS2204/Lab_08/D2.scala
+2024.08.12 20:43:43 WARN  Could not find semantic tokens for: file:///C:/Users/Abdulla/OneDrive/Desktop/Codes/SCS2204/Lab_08/D2.scala
+2024.08.12 20:43:44 WARN  Could not find semantic tokens for: file:///C:/Users/Abdulla/OneDrive/Desktop/Codes/SCS2204/Lab_08/D2.scala
+Aug 12, 2024 8:43:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5676
+2024.08.12 20:43:44 WARN  Could not find semantic tokens for: file:///C:/Users/Abdulla/OneDrive/Desktop/Codes/SCS2204/Lab_08/D2.scala
+2024.08.12 20:43:46 WARN  Could not find semantic tokens for: file:///C:/Users/Abdulla/OneDrive/Desktop/Codes/SCS2204/Lab_08/D2.scala
+2024.08.12 20:43:49 INFO  compiling scs2204_f4dd477a3a (1 scala source)
+2024.08.12 20:43:49 INFO  time: compiled SCS2204_f4dd477a3a in 0.25s
+Aug 12, 2024 8:44:26 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\.metals\.reports\metals-full\2024-08-12\r_compiler-error_(SCS2204_f4dd477a3a)_20-44-26-318.md
+2024.08.12 20:44:26 WARN  Could not find semantic tokens for: file:///C:/Users/Abdulla/OneDrive/Desktop/Codes/SCS2204/Lab_08/D2.scala
+Aug 12, 2024 8:44:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5834
+2024.08.12 20:44:33 INFO  compiling scs2204_f4dd477a3a (2 scala sources)
+2024.08.12 20:44:33 INFO  time: compiled SCS2204_f4dd477a3a in 0.2s
+2024.08.12 20:44:34 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:44:35 INFO  compiling scs2204_f4dd477a3a (2 scala sources)
+2024.08.12 20:44:35 INFO  time: compiled SCS2204_f4dd477a3a in 0.17s
+2024.08.12 20:44:36 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:44:37 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:44:38 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:44:39 INFO  compiling scs2204_f4dd477a3a (2 scala sources)
+2024.08.12 20:44:39 INFO  time: compiled SCS2204_f4dd477a3a in 0.13s
+2024.08.12 20:44:39 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:44:43 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:08 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:10 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+Aug 12, 2024 8:45:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5926
+2024.08.12 20:45:11 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+Aug 12, 2024 8:45:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5946
+2024.08.12 20:45:12 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:14 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:15 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:15 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:16 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:17 INFO  compiling scs2204_f4dd477a3a (2 scala sources)
+2024.08.12 20:45:17 INFO  time: compiled SCS2204_f4dd477a3a in 0.37s
+2024.08.12 20:45:18 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:19 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:20 INFO  compiling scs2204_f4dd477a3a (2 scala sources)
+2024.08.12 20:45:20 INFO  time: compiled SCS2204_f4dd477a3a in 0.37s
+2024.08.12 20:45:21 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:22 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:23 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:24 INFO  compiling scs2204_f4dd477a3a (2 scala sources)
+2024.08.12 20:45:24 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:24 INFO  time: compiled SCS2204_f4dd477a3a in 0.44s
+2024.08.12 20:45:25 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:25 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:26 INFO  compiling scs2204_f4dd477a3a (2 scala sources)
+2024.08.12 20:45:26 INFO  time: compiled SCS2204_f4dd477a3a in 0.17s
+2024.08.12 20:45:26 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:27 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:28 INFO  compiling scs2204_f4dd477a3a (2 scala sources)
+2024.08.12 20:45:28 INFO  time: compiled SCS2204_f4dd477a3a in 0.15s
+2024.08.12 20:45:29 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:30 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:31 INFO  compiling scs2204_f4dd477a3a (2 scala sources)
+2024.08.12 20:45:31 INFO  time: compiled SCS2204_f4dd477a3a in 0.16s
+2024.08.12 20:45:33 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:34 INFO  compiling scs2204_f4dd477a3a (2 scala sources)
+2024.08.12 20:45:34 INFO  time: compiled SCS2204_f4dd477a3a in 0.21s
+2024.08.12 20:45:34 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:35 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:36 INFO  compiling scs2204_f4dd477a3a (2 scala sources)
+2024.08.12 20:45:36 INFO  time: compiled SCS2204_f4dd477a3a in 0.22s
+2024.08.12 20:45:36 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:40 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:41 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:42 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:43 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:43 INFO  compiling scs2204_f4dd477a3a (2 scala sources)
+2024.08.12 20:45:43 INFO  time: compiled SCS2204_f4dd477a3a in 0.18s
+2024.08.12 20:45:44 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:46 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:47 INFO  compiling scs2204_f4dd477a3a (2 scala sources)
+2024.08.12 20:45:47 INFO  time: compiled SCS2204_f4dd477a3a in 0.21s
+2024.08.12 20:45:48 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:49 INFO  compiling scs2204_f4dd477a3a (2 scala sources)
+2024.08.12 20:45:49 INFO  time: compiled SCS2204_f4dd477a3a in 0.21s
+2024.08.12 20:45:49 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:50 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:51 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:52 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:54 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:54 INFO  compiling scs2204_f4dd477a3a (2 scala sources)
+2024.08.12 20:45:54 INFO  time: compiled SCS2204_f4dd477a3a in 0.24s
+2024.08.12 20:45:55 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:56 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:45:57 INFO  compiling scs2204_f4dd477a3a (2 scala sources)
+2024.08.12 20:45:57 INFO  time: compiled SCS2204_f4dd477a3a in 0.14s
+2024.08.12 20:45:57 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:46:00 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:46:01 INFO  compiling scs2204_f4dd477a3a (2 scala sources)
+2024.08.12 20:46:01 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:46:01 INFO  time: compiled SCS2204_f4dd477a3a in 0.14s
+2024.08.12 20:46:01 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:46:02 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:46:02 INFO  compiling scs2204_f4dd477a3a (2 scala sources)
+2024.08.12 20:46:02 INFO  time: compiled SCS2204_f4dd477a3a in 0.14s
+2024.08.12 20:46:03 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:46:03 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:46:05 INFO  compiling scs2204_f4dd477a3a (2 scala sources)
+2024.08.12 20:46:05 INFO  time: compiled SCS2204_f4dd477a3a in 0.13s
+2024.08.12 20:46:05 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:46:15 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:46:16 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:46:17 INFO  compiling scs2204_f4dd477a3a (2 scala sources)
+2024.08.12 20:46:17 INFO  time: compiled SCS2204_f4dd477a3a in 0.16s
+2024.08.12 20:46:17 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:46:17 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:46:19 INFO  compiling scs2204_f4dd477a3a (2 scala sources)
+2024.08.12 20:46:19 INFO  time: compiled SCS2204_f4dd477a3a in 0.18s
+2024.08.12 20:46:19 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:46:20 INFO  compiling scs2204_f4dd477a3a (2 scala sources)
+2024.08.12 20:46:20 INFO  time: compiled SCS2204_f4dd477a3a in 0.2s
+2024.08.12 20:46:21 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+Aug 12, 2024 8:46:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6368
+2024.08.12 20:46:35 INFO  compiling scs2204_f4dd477a3a (2 scala sources)
+2024.08.12 20:46:36 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:46:35 INFO  time: compiled SCS2204_f4dd477a3a in 0.26s
+2024.08.12 20:46:36 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:46:43 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:46:44 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:46:44 INFO  compiling scs2204_f4dd477a3a (2 scala sources)
+2024.08.12 20:46:44 INFO  time: compiled SCS2204_f4dd477a3a in 0.15s
+2024.08.12 20:46:45 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:46:46 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:46:47 INFO  compiling scs2204_f4dd477a3a (2 scala sources)
+2024.08.12 20:46:47 INFO  time: compiled SCS2204_f4dd477a3a in 0.13s
+2024.08.12 20:46:47 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+Aug 12, 2024 8:46:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6420
+2024.08.12 20:46:49 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:46:50 INFO  compiling scs2204_f4dd477a3a (2 scala sources)
+2024.08.12 20:46:50 INFO  time: compiled SCS2204_f4dd477a3a in 0.17s
+2024.08.12 20:46:50 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:46:52 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:46:55 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:46:56 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+Aug 12, 2024 8:46:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6483
+2024.08.12 20:46:58 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:46:59 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:47:00 INFO  compiling scs2204_f4dd477a3a (2 scala sources)
+2024.08.12 20:47:00 INFO  time: compiled SCS2204_f4dd477a3a in 0.14s
+2024.08.12 20:47:00 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:47:01 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:47:01 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:47:04 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:47:04 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:47:05 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:47:06 INFO  compiling scs2204_f4dd477a3a (2 scala sources)
+2024.08.12 20:47:06 INFO  time: compiled SCS2204_f4dd477a3a in 0.18s
+2024.08.12 20:47:06 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:47:06 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:47:07 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:47:07 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:47:44 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:47:48 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:47:49 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:47:50 INFO  compiling scs2204_f4dd477a3a (2 scala sources)
+2024.08.12 20:47:50 INFO  time: compiled SCS2204_f4dd477a3a in 0.21s
+2024.08.12 20:47:51 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:47:55 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:47:58 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+Aug 12, 2024 8:48:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6599
+2024.08.12 20:48:38 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:48:40 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:48:41 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:48:42 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:48:42 INFO  compiling scs2204_f4dd477a3a (2 scala sources)
+2024.08.12 20:48:42 INFO  time: compiled SCS2204_f4dd477a3a in 0.25s
+2024.08.12 20:48:43 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:48:48 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:48:49 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:48:49 INFO  compiling scs2204_f4dd477a3a (2 scala sources)
+2024.08.12 20:48:49 INFO  time: compiled SCS2204_f4dd477a3a in 0.15s
+2024.08.12 20:48:50 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
+2024.08.12 20:49:13 WARN  Could not load snapshot text for C:\Users\Abdulla\OneDrive\Desktop\Codes\SCS2204\Lab_08\D2.scala
